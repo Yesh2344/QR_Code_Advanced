@@ -48,6 +48,15 @@ A modern, full-featured QR code generator built with React, Convex, and Tailwind
    npm install
    ```
 
+3. **Set up Convex**
+   ```bash
+   npx convex dev
+   ```
+   This will:
+   - Create a new Convex project
+   - Set up authentication
+   - Deploy the backend functions
+   - Generate environment variables
 
 4. **Start the development server**
    ```bash
