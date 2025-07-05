@@ -6,14 +6,6 @@ A modern, full-featured QR code generator built with React, Convex, and Tailwind
 
 ## ✨ Features
 
-### 🎯 QR Code Types
-- **Text** - Plain text content
-- **URL** - Website links
-- **Email** - Pre-composed emails with recipient, subject, and body
-- **SMS** - Text messages with phone number and pre-filled message
-- **Phone** - Direct dial phone numbers
-- **Wi-Fi Network** - Network credentials for easy connection
-- **Contact Card (vCard)** - Digital business cards
 
 ### 🎨 Customization Options
 - **Size Control** - 200x200 to 500x500 pixels
