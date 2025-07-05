@@ -2,9 +2,6 @@
 
 A modern, full-featured QR code generator built with React, Convex, and TailwindCSS. Generate, customize, and manage QR codes with real-time history tracking and user authentication.
 
-![Quick QR Generator](public/og-preview.png)
-
-## ✨ Features
 
 ### 🎯 QR Code Types
 - **Text** - Plain text content
