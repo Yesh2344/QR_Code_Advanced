@@ -63,8 +63,7 @@ A modern, full-featured QR code generator built with React, Convex, and Tailwind
    npm run dev
    ```
 
-5. **Open your browser**
-   Navigate to `http://localhost:5173`
+
 
 ## 🛠️ Tech Stack
 
