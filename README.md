@@ -58,7 +58,10 @@ A modern, full-featured QR code generator built with React, Convex, and Tailwind
    - Deploy the backend functions
    - Generate environment variables
 
-
+4. **Start the development server**
+   ```bash
+   npm run dev
+   ```
 
 5. **Open your browser**
    Navigate to `http://localhost:5173`
