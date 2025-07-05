@@ -21,6 +21,12 @@ A modern, full-featured QR code generator built with React, Convex, and Tailwind
 - **Error Correction** - Low (7%), Medium (15%), Quartile (25%), High (30%)
 - **Multiple Formats** - Download as PNG or SVG
 
+### 📱 User Experience
+- **Real-time Preview** - See your QR code as you type
+- **History Management** - Save, load, and delete QR codes
+- **User Authentication** - Secure login with username/password
+- **Responsive Design** - Works on desktop, tablet, and mobile
+- **Toast Notifications** - Clear feedback for all actions
 
 ## 🚀 Quick Start
 
