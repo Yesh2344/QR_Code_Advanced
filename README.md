@@ -43,10 +43,7 @@ A modern, full-featured QR code generator built with React, Convex, and Tailwind
    cd quick-qr-generator
    ```
 
-2. **Install dependencies**
-   ```bash
-   npm install
-   ```
+
 
 3. **Set up Convex**
    ```bash
