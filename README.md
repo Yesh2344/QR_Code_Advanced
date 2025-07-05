@@ -15,11 +15,7 @@ A modern, full-featured QR code generator built with React, Convex, and Tailwind
 - **Wi-Fi Network** - Network credentials for easy connection
 - **Contact Card (vCard)** - Digital business cards
 
-### 🎨 Customization Options
-- **Size Control** - 200x200 to 500x500 pixels
-- **Color Customization** - Custom foreground and background colors
-- **Error Correction** - Low (7%), Medium (15%), Quartile (25%), High (30%)
-- **Multiple Formats** - Download as PNG or SVG
+
 
 ### 📱 User Experience
 - **Real-time Preview** - See your QR code as you type
