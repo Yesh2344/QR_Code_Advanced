@@ -176,11 +176,7 @@ Your Convex backend is automatically deployed when you run `npx convex dev` or `
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🆘 Support
 
-- **Documentation**: [Convex Docs](https://docs.convex.dev)
-- **Community**: [Convex Discord](https://convex.dev/community)
-- **Issues**: [GitHub Issues](https://github.com/your-username/quick-qr-generator/issues)
 
 ## 🎉 Acknowledgments
 
