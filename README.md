@@ -182,7 +182,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Community**: [Convex Discord](https://convex.dev/community)
 - **Issues**: [GitHub Issues](https://github.com/your-username/quick-qr-generator/issues)
 
+## 🎉 Acknowledgments
 
+- [Convex](https://convex.dev) for the amazing backend platform
+- [QR Server](https://goqr.me/api/) for QR code generation API
+- [TailwindCSS](https://tailwindcss.com) for styling
+- [React](https://react.dev) for the frontend framework
+
+---
 
 **Made with ❤️ using Convex and React**
 "# QR_Code_Advanced" 
