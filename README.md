@@ -97,8 +97,6 @@ quick-qr-generator/
 ### Environment Variables
 The app uses Convex for backend services. Environment variables are automatically configured when you run `npx convex dev`.
 
-### Customizing QR Code Generation
-The app uses the QR Server API for generating QR codes. You can modify the QR generation logic in `src/QRGenerator.tsx`:
 
 ```typescript
 // Customize QR code URL generation
