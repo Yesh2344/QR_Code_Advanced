@@ -92,7 +92,7 @@ quick-qr-generator/
 └── README.md            # This file
 ```
 
-## 🔧 Configuration
+
 
 ### Environment Variables
 The app uses Convex for backend services. Environment variables are automatically configured when you run `npx convex dev`.
