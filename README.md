@@ -100,10 +100,7 @@ The app uses Convex for backend services. Environment variables are automaticall
 ### Customizing QR Code Generation
 The app uses the QR Server API for generating QR codes. You can modify the QR generation logic in `src/QRGenerator.tsx`:
 
-```typescript
-// Customize QR code URL generation
-const qrCodeUrl = `https://api.qrserver.com/v1/create-qr-code/?size=${size}x${size}&data=${encodedData}&color=${color}&bgcolor=${bgcolor}&ecc=${ecc}`;
-```
+
 
 ## 📊 Database Schema
 
