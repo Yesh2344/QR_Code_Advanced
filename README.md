@@ -161,7 +161,16 @@ qrCodes: {
 2. Upload the `dist` folder to Netlify
 3. Configure environment variables in Netlify dashboard
 
+### Convex Backend
+Your Convex backend is automatically deployed when you run `npx convex dev` or `npx convex deploy`.
 
+## 🤝 Contributing
+
+1. Fork the repository
+2. Create a feature branch: `git checkout -b feature/amazing-feature`
+3. Commit your changes: `git commit -m 'Add amazing feature'`
+4. Push to the branch: `git push origin feature/amazing-feature`
+5. Open a Pull Request
 
 ## 📝 License
 
