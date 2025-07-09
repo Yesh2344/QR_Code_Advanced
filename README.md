@@ -35,7 +35,13 @@ A modern, full-featured QR code generator built with React, Convex, and Tailwind
 - npm or yarn
 - A Convex account (free at [convex.dev](https://convex.dev))
 
+### Installation
 
+1. **Clone the repository**
+   ```bash
+   git clone <your-repo-url>
+   cd quick-qr-generator
+   ```
 
 2. **Install dependencies**
    ```bash
