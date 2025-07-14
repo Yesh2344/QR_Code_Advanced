@@ -107,7 +107,18 @@ const qrCodeUrl = `https://api.qrserver.com/v1/create-qr-code/?size=${size}x${si
 
 ## 📊 Database Schema
 
+The app uses a simple schema with user authentication and QR code storage:
 
+```typescript
+qrCodes: {
+  userId: Id<"users">,
+  type: string,           // QR code type
+  content: string,        // Generated content
+  title?: string,         // Optional title
+  metadata?: object,      // Type-specific data
+  customization?: object, // Visual customization
+}
+```
 
 ## 🎯 Usage Examples
 
