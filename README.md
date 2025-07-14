@@ -194,6 +194,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Made with ❤️ using Convex and React**
 "# QR_Code_Advanced" 
 
-## Link
 
-https://brilliant-sockeye-866.convex.app/
