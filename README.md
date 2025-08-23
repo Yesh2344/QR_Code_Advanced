@@ -4,6 +4,7 @@ A modern, full-featured QR code generator built with React, Convex, and Tailwind
 
 ![Quick QR Generator](public/og-preview.png)
 
+## ✨ Features
 
 ### 🎯 QR Code Types
 - **Text** - Plain text content
