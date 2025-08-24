@@ -29,7 +29,6 @@ A modern, full-featured QR code generator built with React, Convex, and Tailwind
 - **Toast Notifications** - Clear feedback for all actions
 
 ## 🚀 Quick Start
-
 ### Prerequisites
 - Node.js 18+ 
 - npm or yarn
