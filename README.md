@@ -66,7 +66,6 @@ A modern, full-featured QR code generator built with React, Convex, and Tailwind
 5. **Open your browser**
    Navigate to `http://localhost:5173`
 
-## 🛠️ Tech Stack
 
 - **Frontend**: React 19, TypeScript, TailwindCSS
 - **Backend**: Convex (real-time database & functions)
