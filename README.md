@@ -6,7 +6,6 @@ A modern, full-featured QR code generator built with React, Convex, and Tailwind
 
 ## ✨ Features
 
-### 🎯 QR Code Types
 - **Text** - Plain text content
 - **URL** - Website links
 - **Email** - Pre-composed emails with recipient, subject, and body
